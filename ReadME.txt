@@ -2,7 +2,7 @@ This Project is a part of NASA Space Challenge developed by Team Brain Buds.
 Group Members:
 	1. Rajan Shrestha
 	2. Sunil Gaha
-	3. Smritee Tiwari
+	3. Smriti Tiwari
 	4. Rakshya Basnet
 	5. Sneha Karki
 
